@@ -1,0 +1,12 @@
+http://localhost:8080/caiwu/admin/dist/index.html
+
+管理员
+admin   123456
+
+
+老师：
+zhangsan   H@12345678
+
+
+会计：
+kuaiji    H@12345678
